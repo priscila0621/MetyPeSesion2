@@ -1,0 +1,14 @@
+C:\Users\DELL E7250\Documents\C#UAM\Sesion2\Sesion2\bin\Debug\net8.0\Sesion2.exe
+C:\Users\DELL E7250\Documents\C#UAM\Sesion2\Sesion2\bin\Debug\net8.0\Sesion2.deps.json
+C:\Users\DELL E7250\Documents\C#UAM\Sesion2\Sesion2\bin\Debug\net8.0\Sesion2.runtimeconfig.json
+C:\Users\DELL E7250\Documents\C#UAM\Sesion2\Sesion2\bin\Debug\net8.0\Sesion2.dll
+C:\Users\DELL E7250\Documents\C#UAM\Sesion2\Sesion2\bin\Debug\net8.0\Sesion2.pdb
+C:\Users\DELL E7250\Documents\C#UAM\Sesion2\Sesion2\obj\Debug\net8.0\Sesion2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL E7250\Documents\C#UAM\Sesion2\Sesion2\obj\Debug\net8.0\Sesion2.AssemblyInfoInputs.cache
+C:\Users\DELL E7250\Documents\C#UAM\Sesion2\Sesion2\obj\Debug\net8.0\Sesion2.AssemblyInfo.cs
+C:\Users\DELL E7250\Documents\C#UAM\Sesion2\Sesion2\obj\Debug\net8.0\Sesion2.csproj.CoreCompileInputs.cache
+C:\Users\DELL E7250\Documents\C#UAM\Sesion2\Sesion2\obj\Debug\net8.0\Sesion2.dll
+C:\Users\DELL E7250\Documents\C#UAM\Sesion2\Sesion2\obj\Debug\net8.0\refint\Sesion2.dll
+C:\Users\DELL E7250\Documents\C#UAM\Sesion2\Sesion2\obj\Debug\net8.0\Sesion2.pdb
+C:\Users\DELL E7250\Documents\C#UAM\Sesion2\Sesion2\obj\Debug\net8.0\Sesion2.genruntimeconfig.cache
+C:\Users\DELL E7250\Documents\C#UAM\Sesion2\Sesion2\obj\Debug\net8.0\ref\Sesion2.dll
